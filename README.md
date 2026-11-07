@@ -26,7 +26,7 @@ In practice, that means working across the full stack of a decentralized applica
 
 ## Off the keyboard
 
-Chess since age five, FIDE rated tournaments today ([FIDE profile](https://ratings.fide.com/profile/6378803)), playing for Academia do Lumiar in Lisbon. The board taught me the lesson I keep reusing at work: the position tells you the truth whether you like it or not. Audiophile too, forever one tweak away from the perfect room.
+I have played chess since I was five and still compete in FIDE rated tournaments ([FIDE profile](https://ratings.fide.com/profile/6378803)), currently for Academia do Lumiar in Lisbon. Away from the board, I am an audiophile, always working on getting a little more out of the room.
 
 ## Elsewhere
 
