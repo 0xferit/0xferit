@@ -30,6 +30,6 @@ I have played chess since I was five and still compete in FIDE rated tournaments
 
 ## Elsewhere
 
-[X](https://x.com/0xferit) · [LinkedIn](https://linkedin.com/in/ferit-tuncer) · [ORCID](https://orcid.org/0009-0004-1449-9348) · [Résumé](https://0xferit.github.io) · [proveuswrong.io](https://proveuswrong.io)
+[X](https://x.com/0xferit) · [LinkedIn](https://linkedin.com/in/ferit-tuncer) · [ORCID](https://orcid.org/0009-0004-1449-9348) · [proveuswrong.io](https://proveuswrong.io)
 
 > “Talent hits a target no one else can hit; Genius hits a target no one else can see.” Arthur Schopenhauer
