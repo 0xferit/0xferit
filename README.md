@@ -1,9 +1,35 @@
-I’m a software engineer with a Bachelor’s in Computer Science and deep experience in Ethereum, building on it since 2018. As a cypherpunk, I believe crypto is the intersection of freedom and computer science—where technology empowers individuals in new ways.
+# Ferit Tunçer
 
-I’m also a competitive chess player, regularly participating in FIDE tournaments ([my FIDE profile](https://ratings.fide.com/profile/6378803)), and currently playing at Academia do Lumiar chess club in Lisbon. Chess fuels my passion for strategy and creative problem-solving.
+Software engineer with a bachelor's degree in computer science, building full stack decentralized applications on Ethereum since 2018. Currently at [Golem Foundation](https://golem.foundation), working on [Octant](https://octant.app).
 
-When I’m not coding or over the chessboard, I’m searching for sonic perfection as an audiophile.  
-Find me on Twitter: [@0xferit](https://twitter.com/0xferit)
+## About
 
-Favorite quote:  
-“Talent hits a target no one else can hit; Genius hits a target no one else can see.” — Arthur Schopenhauer
+Two things I can't leave alone: freedom and computer science. Crypto is where they collide, and what comes out is code that widens what people are free to do without asking anyone's permission.
+
+Here is why that matters to me. For most of history, interacting with another person began with a leap of faith. Trading, lending, hiring, voting, settling a dispute, even deciding whose word to believe: each required you to trust someone, and none of them could be skipped just because trust was expensive. So we built intermediaries, institutions and courts to carry the risk, and paid them for it. Crypto rewrites that bargain. Strangers can now interact without trusting each other, or anyone standing between them.
+
+Designing those interactions is my specialty: agreements that hold when nobody has to take anyone's word for it. Decentralized curation is the example I care about most. It lets you consume curated information without trusting the curator.
+
+In practice, that means working across the full stack of a decentralized application: mechanism design, smart contracts, and the web applications that users interact with. My work so far has centered on three problems: dispute resolution, curation, and public goods funding.
+
+- **Golem Foundation (2025 to now):** smart contracts for Octant, plus research on decentralized curation; I ran a session on it at IOSP 2026 in Leiden.
+- **Butter (2024):** founding smart contract engineer, using prediction markets and futarchy to fund public goods.
+- **Prove Us Wrong (2022 to 2024):** founded it to build The Truth Post, a decentralized newspaper. The name was the business model.
+- **Kleros (2018 to 2022):** early core contributor; built protocol contracts and dapps, documented ERC 792 and ERC 1497, and served as Vice President of the Supervisory Board.
+
+## Research
+
+- [Decentralized Curation for Public Goods: A Blueprint for Contestable Assessment and Funding](https://doi.org/10.5281/zenodo.23354211) (2026, preprint on Zenodo)
+- [Decentralized Curation: Trustless Transformation of Information into Knowledge](https://doi.org/10.5281/zenodo.20543760) (2026, preprint on Zenodo)
+- [Marmara Turkish Coreference Corpus and Coreference Resolution Baseline](https://doi.org/10.48550/arXiv.1706.01863) (2018, arXiv)
+- [A Heuristic Approach to Minimising Maximum Lateness on a Single Machine](https://doi.org/10.7166/26-3-1030) (2015, South African Journal of Industrial Engineering)
+
+## Off the keyboard
+
+Chess since age five, FIDE rated tournaments today ([FIDE profile](https://ratings.fide.com/profile/6378803)), playing for Academia do Lumiar in Lisbon. The board taught me the lesson I keep reusing at work: the position tells you the truth whether you like it or not. Audiophile too, forever one tweak away from the perfect room.
+
+## Elsewhere
+
+[X](https://x.com/0xferit) · [LinkedIn](https://linkedin.com/in/ferit-tuncer) · [ORCID](https://orcid.org/0009-0004-1449-9348) · [Résumé](https://0xferit.github.io) · [proveuswrong.io](https://proveuswrong.io)
+
+> “Talent hits a target no one else can hit; Genius hits a target no one else can see.” Arthur Schopenhauer
